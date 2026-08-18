@@ -1,0 +1,5 @@
+NOT SIGNED — PUBLIC DEMO PREVIEW
+Authenticode status: NotSigned
+This preview is intentionally distributed without Authenticode signing.
+Windows may display a security warning. Verify the published SHA-256 checksum before running it.
+Pre-release software: no support is provided and use is at the user's own risk.

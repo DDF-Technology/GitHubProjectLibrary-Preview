@@ -4,6 +4,10 @@ Questa è una versione dimostrativa pre-release per Windows 10/11 x64. Riproduce
 
 La Demo non legge repository o directory locali. Clone, fetch, pull, scansione locale, apertura degli strumenti e generazione del prompt sono visibili ma disabilitati; le relative implementazioni non sono incluse nel pacchetto. La Demo non può essere trasformata in Full modificando impostazioni o file di configurazione.
 
+## Download
+
+Scarica l'ultima preview dalla pagina [Releases](https://github.com/DDF-Technology/GitHubProjectLibrary-Preview/releases/latest). Verifica sempre il file `SHA256SUMS.txt` pubblicato insieme allo ZIP.
+
 ## Avvio
 
 1. Estrarre interamente l'archivio ZIP.
